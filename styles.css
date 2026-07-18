@@ -25,9 +25,7 @@ html {
 
 body {
   margin: 0;
-  background:
-    linear-gradient(90deg, rgba(15, 118, 110, 0.07) 0 22%, transparent 22%),
-    var(--surface);
+  background: var(--surface);
   color: var(--ink);
   letter-spacing: 0;
 }
